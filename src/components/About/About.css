@@ -1,0 +1,62 @@
+.about {
+  padding: 20px;
+}
+
+.about-title {
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+
+.skill-category {
+  margin-bottom: 2em;
+}
+
+.category-title {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.skill-item {
+  text-align: center;
+  width: 100px;
+}
+
+.skill-image {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin: 10px;
+  margin-bottom: 0.5em;
+  display: block;
+}
+
+.skill-name {
+  font-size: 1em;
+}
+
+.resume-download {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.download-button {
+  background-color: #2b4618;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.download-button:hover {
+  background-color: #142800;
+}
+

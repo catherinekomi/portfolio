@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Fitness Tracker",
+    "date": "June '24 (in progress)",
+    "projectNumber": "Project 13",
+    "description": "Fitness tracker that allows users to log their workouts, track progress, and manage their profiles with secure authentication, including Google sign-in.",
+    "technology": "What I used: JavaScript, React.js, Firebase, HTML, CSS. You can view the code and the project plan on GitHub.",
+    "image": "fitness-tracker.webp",
+    "previewLink": "",
+    "githubLink": "https://github.com/catherinekomi/fitness-tracker",
+    "previewText": "Preview Upcoming Soon"
+  },
+  {
+    "title": "Interesting Fact Generator",
+    "projectNumber": "Project 12",
+    "description": "Web app utilizing ChatGPT to deliver curated facts based on user input, primarily focused on animals. It features a chat-like interface for user interaction, providing a seamless experience for exploring interesting facts about favorite animals. Might take longer to load bc I'm using free version to host my project.",
+    "technology": "What I used: JavaScript, React.js, HTML, CSS, Express.",
+    "image": "fact-gen.webp",
+    "previewLink": "https://interesting-fact-generator.onrender.com/",
+    "githubLink": "https://github.com/catherinekomi/fact_generator",
+    "previewText": "Preview"
+  },
+  {
+    "title": "Reusable Infinite Scroll Component",
+    "projectNumber": "Project 11",
+    "description": "This project demonstrates a reusable Infinite Scroll component using React and JavaScript. The component dynamically fetches and displays data from an API as the user scrolls down the page.",
+    "technology": "What I used: JavaScript, React.js, HTML, CSS, Axios.",
+    "image": "infinite-scroll.webp",
+    "previewLink": "https://infinite-scroll-component.onrender.com/",
+    "githubLink": "https://github.com/catherinekomi/infinite-scroll-component",
+    "previewText": "Preview"
+  },
+  {
+    "title": "Recipes App",
+    "projectNumber": "Project 9",
+    "description": "I've developed a Recipe App using React, leveraging libraries like framer-motion, react-router-dom, and styled-components. It offers search functionality and presents recipes across four cuisine categories, along with sections for Popular and Veggie picks on the main page. I've integrated Spoonacular.com's API for data sourcing.",
+    "technology": "What I used: JavaScript, React.js, HTML, CSS.",
+    "image": "yumyum.webp",
+    "previewLink": "https://shimmering-genie-3e0649.netlify.app/",
+    "githubLink": "https://github.com/catherinekomi/recipe_app",
+    "previewText": "Preview"
+  },
+  {
+    "title": "UI/UX Animation Gallery Website",
+    "projectNumber": "Project 8",
+    "description": "Animated Gallery created with parallax effect when scrolling. I created animated background that repeats the colors of the images and blends smoothly from one to another with Blur effect.",
+    "technology": "What I used: JavaScript, HTML, CSS.",
+    "image": "mia.webp",
+    "previewLink": "https://confident-blackwell-d221e1.netlify.app",
+    "githubLink": "https://github.com/catherinekomi/css-scroll-gallery-animation",
+    "previewText": "Preview"
+  },
+  {
+    "title": "Image Gallery Mouse Move Effect",
+    "projectNumber": "Project 7",
+    "description": "Created an image gallery which moves with the mouse position.",
+    "technology": "What I used: JavaScript, HTML, CSS.",
+    "image": "mouse.webp",
+    "previewLink": "https://kind-lovelace-2cc86c.netlify.app/",
+    "githubLink": "https://github.com/catherinekomi/image-gallery-mouse-move-effect",
+    "previewText": "Preview"
+  },
+  {
+    "title": "Picture me (Similar to Pinterest)",
+    "projectNumber": "Project 5",
+    "description": "Photo sharing social media application. Users can login and register through custom page using Google Authentication. Image of each bin can be downloaded, destination URL and also save it. You can leave comments under each picture.",
+    "technology": "What I used: React.js, JavaScript, HTML, CSS",
+    "image": "pictureme-min.png",
+    "image2": "pictureme2-min.png",
+    "previewLink": "https://picture-m-e.netlify.app/login",
+    "githubLink": "https://github.com/catherinekomi/pictureme",
+    "previewText": "Preview"
+  },
+  {
+    "title": "Marvel Universe Online Chat",
+    "projectNumber": "Project 4",
+    "description": "Created with React Chat App. You can send text and images from your profile. Login page, online statuses, and functionality, icons telling you who read the message, image support, sound notifications, the ability to create multiple rooms. Login: maincharacter Password: 123123",
+    "technology": "What I used: React.js, JavaScript, HTML, CSS",
+    "image": "marvel-chat.png",
+    "previewLink": "https://chat-app-3d8d9.web.app/",
+    "githubLink": "https://github.com/catherinekomi/marvel-chat",
+    "previewText": "Preview"
+  },
+  {
+    "title": "Yosemite Best Hikes",
+    "projectNumber": "Project 3",
+    "description": "Yosemite hikes page where you can sort trails by difficulty.",
+    "technology": "What I used: React.js, JavaScript, HTML, CSS",
+    "image": "yosemite-hikes.webp",
+    "previewLink": "https://yosemite-hikes.web.app/",
+    "githubLink": "https://github.com/catherinekomi/yosemite-hikes",
+    "previewText": "Preview"
+  },
+  {
+    "title": "To Do List",
+    "projectNumber": "Project 2",
+    "description": "A dynamic and aesthetic To Do list Website. User-friendly, displays current date and time.",
+    "technology": "What I used: HTML, CSS and Vanila JavaScript",
+    "image": "todo-list-min.png",
+    "previewLink": "https://todolist-final-9a264.web.app/",
+    "githubLink": "https://github.com/catherinekomi/mytodolist-master",
+    "previewText": "Preview"
+  },
+  {
+    "title": "Snake Game",
+    "projectNumber": "Project 1",
+    "description": "A simple snake game created with the React JS library.",
+    "technology": "What I used: React.js, JavaScript, HTML, CSS",
+    "image": "snake-game.png",
+    "previewLink": "https://my-snake-game-3627e.web.app/",
+    "githubLink": "https://github.com/catherinekomi/snake",
+    "previewText": "Preview"
+  }
+]

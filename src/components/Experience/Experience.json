@@ -1,0 +1,50 @@
+{
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "Yahoo! Sports",
+      "dates": "July 2022 - March 2024",
+      "responsibilities": [
+        "Successfully developed new components for the website, increasing user engagement by 15% and enhancing user experiences.",
+        "Delivered product features and technology improvements as part of a passionate agile development team working on a high-impact roadmap.",
+        "Played a pivotal role in improving the website's SEO performance for the past two quarters, resulting in a 25% increase in organic traffic and visibility."
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Loqul.io",
+      "dates": "March 2022 - July 2022",
+      "responsibilities": [
+        "Led the end-to-end development and deployment, encompassing the design, implementation, and deployment of the main page, site structure, Google Ads integration, and analytics.",
+        "Designed, developed, and deployed new features to streamline user flows and increase web traffic by 20%.",
+        "Collaborated closely with product management to prioritize and deliver high-impact features, resulting in a 15% increase in user retention and a 10% boost in overall site engagement."
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Alopex Interaction Design",
+      "dates": "February 2022 - March 2022",
+      "responsibilities": [
+        "Enhanced functionality and appearance of the website and repaired functionality issues.",
+        "Developed and delivered multiple websites, ensuring they met coding standards and cross-browser compatibilities, which led to a 20% increase in client satisfaction.",
+        "Developed custom mobile-friendly WordPress templates using PHP and themes to align with site design and branding for clients, increasing mobile traffic by 25%."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Yandex",
+      "dates": "December 2020 - January 2022",
+      "responsibilities": [
+        "Ensured that the frontend components are compatible with various browsers, optimizing the user experience across different platforms.",
+        "Mapped the user flow to improve website layouts to ensure responsiveness and improve user engagement.",
+        "Adept at seamlessly working with diverse teams, leveraging effective communication and adaptability to contribute to the success of interdisciplinary projects."
+      ]
+    }
+  ],
+  "education": [
+    "Computer Science Certificate",
+    "Algorithms and Data Structures Certificate",
+    "Web Development Certificate",
+    "Master of Arts in Economics and Management, MSU, September 2010 - July 2015"
+  ]
+}

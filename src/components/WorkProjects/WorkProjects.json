@@ -1,0 +1,39 @@
+[
+  {
+    "title": "New /topic/ Pages Implementation + SEO + Automated Page Creation Tool",
+    "overview": "Implemented new /topic/ pages on sports.yahoo.com, like Wemby Watch and Super Bowl. Designed layouts for both desktop and mobile based on UI/UX mocks. Created an automated tool allowing the editorial team to modify page elements without needing engineering help.",
+    "link": "https://sports.yahoo.com/nba/topic/wemby-watch/",
+    "details": "This project involved creating and implementing new /topic/ pages on sports.yahoo.com to enhance user experience and boost SEO performance. Examples include topic/Wemby Watch and topic/Super Bowl, which provides content on specific sports topics. I designed the layouts for these pages, ensuring they worked seamlessly on both desktop and mobile. I translated UI/UX designs into web pages, focusing on user engagement and accessibility.",
+    "tools": "JavaScript, React.js, Firebase, HTML, CSS",
+    "time": "About 3-4 weeks",
+    "issues": "The design and development teams disagreed on a new feature's complexity. To resolve this, I organized a meeting where both teams could talk over and bring suggestions to the table. We agreed on a compromise: a simplified version of the feature that met design goals and was feasible to develop. This approach allowed me to deliver the project on time while ensuring both teams were satisfied.",
+    "image": "topic.webp"
+  },
+  {
+    "title": "Stream Component and Pagination Implementation",
+    "overview": "Added a new 'stream' component and pagination to every /league/news/ page, was under a feature flag when I got laid off for a controlled release, but I checked few days ago and they released it. Spent a lot of time planning, reviewing, debugging, and organizing this project.",
+    "link": "https://sports.yahoo.com/nfl/news/",
+    "details": "For this project, I integrated a new 'stream' component and pagination system on all /league/news/ url pages to improve user navigation and make it easier to browse news articles. The new 'stream' component dynamically loads content, giving users a continuous flow of news articles, enhancing their experience. I worked closely with cross-functional teams from all over the world to make sure the implementation met our product goals and user needs. Detailed planning, updating documentation, code reviews, and thorough debugging were key parts of it.",
+    "time": "3-4 weeks",
+    "issues": "Challenges included poorly maintained documentation, requiring adjustments to API calls, adding a special JSON request, passing additional parameters, and including special headers to properly read URLs.",
+    "storage": "We were not caching because those articles would be updated from other sites as well, not yahoo.sports only, so we needed that constant update.",
+    "image": "pagination.webp"
+  },
+  {
+    "title": "Featured Cards Component",
+    "overview": "Redesigned Featured Cards on sports.yahoo.com using our newly developed playbook components. Integrated the component with our internal tool, enabling the editorial team to seamlessly add 3-4 articles to each card. Implemented customization options, allowing the editorial team to control the number of cards displayed (3-4-5) for a dynamic user experience.",
+    "link": "https://sports.yahoo.com/",
+    "image": "featuredcards.webp"
+  },
+  {
+    "title": "Automated Page Creation Tool",
+    "overview": "Developed an automated tool by creating a JSON schema, allowing the editorial team to independently modify page elements like the header, spaceID’s, background image, title tag, and description without engineering intervention.",
+    "image": "bg2.jpg"
+  },
+  {
+    "title": "Third Tier Navigation Component",
+    "overview": "Developed Tab Component (Storybook) and implemented 'third tier navigation' tabs for every soccer league on Yahoo Sports site, such as the Premier League for example. Collaborated with the Back-End team to incorporate necessary data into our soccer API based on UI/UX mocks from the design team.",
+    "link": "https://sports.yahoo.com/soccer/premier-league/scoreboard/",
+    "image": "thirdtiernav.webp"
+  }
+]

@@ -1,0 +1,49 @@
+.projects-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.project-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2em;
+}
+
+.project-image {
+  width: 500px;
+  object-fit: contain;
+  margin-right: 1em;
+}
+
+.project-details {
+  flex: 1;
+}
+
+.actions {
+  display: flex;
+  gap: 1em;
+  padding: 0;
+}
+
+.button {
+  text-decoration: none;
+  padding: 0.5em 1em;
+  border-radius: 10px;
+}
+
+.button.primary {
+  background-color: #264311;
+  color: white;
+}
+
+.button.primary:hover {
+  background-color: #142800;
+}
+
+.button:hover {
+  opacity: 0.8;
+}
+
+li {
+     list-style-type: none;
+}

@@ -1,0 +1,26 @@
+.experience h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.experience .job {
+  margin-bottom: 30px;
+}
+
+.experience .job h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.experience .job p {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.experience .job ul {
+  padding-left: 30px;
+}
+
+.experience .job ul li {
+  margin-bottom: 5px;
+}

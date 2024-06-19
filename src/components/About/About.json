@@ -1,0 +1,40 @@
+{
+  "skillsData": [
+    {
+      "category": "Languages",
+      "skills": [
+        { "name": "JavaScript", "image": "javascript.png" },
+        { "name": "TypeScript", "image": "ts.png" },
+        { "name": "HTML", "image": "html.png" },
+        { "name": "CSS", "image": "css3.png" }
+      ]
+    },
+    {
+      "category": "Frontend",
+      "skills": [
+        { "name": "React", "image": "react.png" },
+        { "name": "jQuery", "image": "jquery.png" },
+        { "name": "Bootstrap", "image": "bootstrap.png" },
+        { "name": "Tailwind", "image": "tailwind.webp" }
+      ]
+    },
+    {
+      "category": "Backend",
+      "skills": [
+        { "name": "Node.js", "image": "nodejs.png" },
+        { "name": "Express", "image": "express.png" },
+        { "name": "SQL", "image": "sql.png" },
+        { "name": "MongoDB", "image": "mongodb.png" },
+        { "name": "Solidity", "image": "solidity.webp" }
+      ]
+    },
+    {
+      "category": "Technology",
+      "skills": [
+        { "name": "Git", "image": "git.png" },
+        { "name": "Heroku", "image": "heroku.png" },
+        { "name": "NPM", "image": "npm.png" }
+      ]
+    }
+  ]
+}
