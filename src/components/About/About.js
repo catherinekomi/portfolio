@@ -6,12 +6,21 @@ const About = () => {
   return (
     <div className='about'>
       <h2 className='about-title'>About</h2>
-      <h2 className='about-title'>Skills</h2>
+      <p>Hi, I'm Catherine!</p>
+      <p>
+        I am an experienced Software Engineer specializing in frontend
+        development and UI/UX design. With a strong background in enhancing user
+        engagement and delivering scalable web applications, I thrive in
+        dynamic, cross-functional teams. My expertise spans a variety of
+        technologies including JavaScript, TypeScript, React, and Node.js, among
+        others.
+      </p>
       <div className='resume-download'>
         <a href='../../assets/catherine-komi-cv.pdf' download>
           <button className='download-button'>Download Resume</button>
         </a>
       </div>
+      <h2 className='about-title'>Skills</h2>
       {skillsData.skillsData.map((category, index) => (
         <div key={index} className='skill-category'>
           <h4 className='category-title'>{category.category}</h4>

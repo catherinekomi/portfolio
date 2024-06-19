@@ -1,0 +1,30 @@
+.icons {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1em;
+}
+
+.icons li {
+  display: inline-block;
+}
+
+.icons a {
+  text-decoration: none;
+  font-size: 1.5em;
+  color: #264311;
+  transition: color 0.3s;
+}
+
+.icons a:hover {
+  color: #142800;
+}
+
+.icons .label {
+  display: none;
+}
+
+.icon {
+  font-size: 1.5em;
+}
+
