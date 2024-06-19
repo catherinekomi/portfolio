@@ -7,7 +7,8 @@ const Contact = () => {
   return (
     <section id='contact'>
       <h2>Contact</h2>
-      <p>You can reach out to me via the following platforms:</p>
+      <p>You can reach out to me via:</p>
+      <p> Email: catherinekomii@gmail.com</p>
       <ul className='icons'>
         <li>
           <a

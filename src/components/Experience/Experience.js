@@ -14,7 +14,7 @@ const Experience = () => {
           <p>{job.dates}</p>
           <ul>
             {job.responsibilities.map((responsibility, index) => (
-              <li key={index}>{responsibility}</li>
+              <li key={index}>- {responsibility}</li>
             ))}
           </ul>
         </div>
