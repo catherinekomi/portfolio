@@ -35,5 +35,23 @@
     "overview": "Developed Tab Component (Storybook) and implemented 'third tier navigation' tabs for every soccer league on Yahoo Sports site, such as the Premier League for example. Collaborated with the Back-End team to incorporate necessary data into our soccer API based on UI/UX mocks from the design team.",
     "link": "https://sports.yahoo.com/soccer/premier-league/scoreboard/",
     "image": "thirdtiernav.webp"
+  },
+  {
+    "title": "Alaska Addiction Rehabilitation Services (AARS) website",
+    "overview": "The AARS Recovery website is a headless CMS solution built using WordPress for backend management and Next.js for frontend development. Implemented with a headless template, the site offers a seamless, responsive user experience, developed in alignment with Figma UX/UI designs, using GitLab for version control and Cloudways for hosting.",
+    "link": "https://aarsrecovery.org/",
+    "image": "aars.webp"
+  },
+  {
+    "title": "Bailey's Furniture website",
+    "overview": "For Bailey's Furniture, I enhanced the inventory management system across their four warehouses by developing a feature that allows customers to accurately select and purchase furniture based on real-time stock levels. I integrated an NPM/React library to create a dynamic button using useState, ensuring a seamless user experience by reflecting true inventory availability in the shopping cart. This comprehensive solution improved operational efficiency and customer satisfaction.",
+    "link": "https://baileysfurniture.com/",
+    "image": "baileys.webp"
+  },
+  {
+    "title": "AKME",
+    "overview": "I developed their website using WordPress and Next.js, implementing a headless CMS for optimal performance and content management. Collaborating closely with UX/UI designers through Figma, I translated their design into a seamless digital experience. I utilized GitLab for version control and deployed the project via Cloudways, ensuring robust connectivity between the front-end and back-end systems. This approach enhanced the site's functionality and user experience, offering a scalable and efficient solution for their online presence.",
+    "link": "https://akmountainentertainment.com/",
+    "image": "akme.webp"
   }
 ]
