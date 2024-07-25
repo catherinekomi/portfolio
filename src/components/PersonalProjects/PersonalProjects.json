@@ -6,7 +6,7 @@
     "description": "Fitness tracker that allows users to log their workouts, track progress, and manage their profiles with secure authentication, including Google sign-in.",
     "technology": "What I used: JavaScript, React.js, Firebase, HTML, CSS. You can view the code and the project plan on GitHub.",
     "image": "fitness-tracker.webp",
-    "previewLink": "https://main--activity-tracker-pro.netlify.app/profile",
+    "previewLink": "https://main--activity-tracker-pro.netlify.app",
     "githubLink": "https://github.com/catherinekomi/fitness-tracker",
     "previewText": "Preview"
   },
